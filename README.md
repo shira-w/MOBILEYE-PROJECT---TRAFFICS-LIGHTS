@@ -9,3 +9,6 @@ input, to conclude all the traffic lights in the image (using tensorflow).
 light from the camera picturing the images of interest, involving geometric
 and linear algebra calculations.
 4. Integrating all previous parts into a functional and intuitive SW product.
+
+---------------------------------------------
+###### do you have some comments, negative or positive review? I would like to hear you: shirawein70@gmail.com
